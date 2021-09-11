@@ -1,0 +1,111 @@
+/*styling of back divl*/
+.log{
+	width:30%;
+	margin:auto;
+	height:460px;
+	background-color:#212725;
+	margin-left:200px;
+	position:fixed;
+}
+/*styling of form*/
+form{
+	width:310px;
+	height:380px;
+	margin:auto;
+	background-color:#6ab58f;
+	text-align:center;
+	margin-top:30px;
+}
+/*styling of labels*/
+label{
+	display:none;
+}
+/*styling of heading*/
+.ml{
+	width:280px;
+	margin-left:15px;
+}
+.ml h4{
+	color:black;
+	font-size:20px;
+	letter-spacing:1px;
+}
+/*styling fo inputs*/
+input{
+	background-color:#314344;
+	width:260px;
+	height:35px;
+	margin-bottom:20px;
+	border:1px solid aqua;
+	outline:none;
+	padding:5px;
+}
+/*styling of placeholder*/
+::placeholder{
+	color:aqua;
+}
+/*styling of 1st button*/
+.but{
+	width:230px;
+	height:35px;
+	background-color:ivory;
+	margin-left:2px;
+	margin-bottom:10px;
+}
+/*styling of a tag*/
+a:link{
+	font-size:12px;
+	letter-spacing:1px;
+	/*text-decoration: none;*/
+	padding-left: 10px;
+	text-transform: capitalize;
+}
+/*styling of hr*/
+hr{
+	width:280px;
+	border:0.6px solid #314344;
+	margin-bottom:20px;
+	margin-top:25px;
+}
+/*styling of hover of buttons*/
+input[type="button"]:hover{
+	background-color:black;
+	color:white;
+	font-weight:bold;
+	cursor:pointer;
+}
+/*styling of 2nd button*/
+.reg{
+	width:230px;
+	height:40px;
+	background-color:aqua;
+	margin-left:2px;
+	margin-top:10px;
+}
+/*styling of vector stock*/
+.roy{
+	width:200px;
+	height:35px;
+	background-color:#3b3d54;
+	margin-top:40px;
+	float:left;
+}
+.roy p{
+	color:white;
+	font-size:25px;
+	margin:0px;
+}
+/*styling of vector stock.com*/
+.last{
+	width:280px;
+	height:35px;
+	background-color:#3b3d54;
+	margin-top:40px;
+	float:left;
+}
+.last p{
+	color:white;
+	font-size:16px;
+	margin:12px;
+	margin-left:144px;	
+}
